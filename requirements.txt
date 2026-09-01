@@ -1,0 +1,11 @@
+﻿Flask
+Flask-WTF
+matplotlib
+numpy
+pandas
+python-dateutil
+scikit-learn
+seaborn
+statsmodels
+tqdm
+Werkzeug
